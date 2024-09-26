@@ -1,6 +1,6 @@
 
 
-**Spring MVC Employee CRUD Application**
+**Spring Boot Employee CRUD Application**
 
 This project demonstrates a Spring MVC application with Thymeleaf templating for managing employee data using CRUD (Create, Read, Update, Delete) operations.
 
